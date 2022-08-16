@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e07d2e73a33be95428362f0394aeb858
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Power: {fileID: 7313775350689653701, guid: ee04a399434b0084798a6085c81d602f, type: 3}
+  - magicSpell: {fileID: 8300000, guid: 8b1bc0c2bc2575d42b1f2a3a1bafb64d, type: 3}
+  - Explosion: {fileID: 7928727717190831611, guid: 9333a4fc2d762fb42b7fc90e1bf14fd8,
+      type: 3}
+  - screamExplode: {fileID: 8300000, guid: 8b1bc0c2bc2575d42b1f2a3a1bafb64d, type: 3}
+  - Boom: {fileID: 8300000, guid: ce0e34f643d56394b8808535b1ded51c, type: 3}
+  - Fanfare: {fileID: 8300000, guid: 4290a3e492b43b1448c85cdc8ce45333, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

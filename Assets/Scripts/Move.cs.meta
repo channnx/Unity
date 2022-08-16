@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ddd1f69ec12befc43a1a9c4d126f1c88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Wizlight: {instanceID: 0}
+  - explosion: {fileID: 7928727717190831611, guid: 9333a4fc2d762fb42b7fc90e1bf14fd8,
+      type: 3}
+  - screamExplode: {fileID: 8300000, guid: 58615487f3924d9428c9216c2f7fd31f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
